@@ -16,7 +16,7 @@ body::-webkit-scrollbar {
 
 #body-header {
   height: 65vh;
-  background-image: url(Img/flat-bg.jpg);
+  background-image: url(Img/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   /* background-attachment: fixed; */
@@ -177,6 +177,7 @@ section:nth-child(odd) {
   width: 100%;
   position: relative;
   margin-bottom: 30px;
+  background: #0C0000;
 }
 
 #my-image {
